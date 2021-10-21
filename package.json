@@ -1,0 +1,15 @@
+{
+  "name": "cloud-secret-env",
+  "version": "1.0.0",
+  "description": "Nodejs port of [Cloud Secret Env](https://github.com/thinkific/cloud-secret-env)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "secrets",
+    "env"
+  ],
+  "author": "kbluescode <kbluescode@gmail.com>",
+  "license": "ISC"
+}
